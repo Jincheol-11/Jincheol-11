@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sunkiro96@naver.com**
 
-- I’m currently studying an **chunjae_edu**
+- I’m currently studying at **chunjae_edu**
 
 <p align="left">
 </p>
