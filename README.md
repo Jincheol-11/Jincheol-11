@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jincheol Gwon</h1>
 <h3 align="center">A developer who constantly develops</h3>
 
-![IMG_1180](https://github.com/Jincheol-11/Jincheol-11/assets/145963704/72161446-b008-4fa8-9f0a-59b4702800bc)
+
+
+https://github.com/Jincheol-11/Jincheol-11/assets/145963704/4974af40-1d23-4062-acee-b16aa67b8fcb
+
 
 
 
