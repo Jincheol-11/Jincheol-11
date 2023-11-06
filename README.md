@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jincheol Gwon</h1>
-![13](https://github.com/Jincheol-11/Jincheol-11/assets/145963704/e8e94ccb-27b7-41aa-9380-226d0e41addd)
+<h1 align="left">Hi 👋, I'm Jincheol Gwon</h1>
+
+![14](https://github.com/Jincheol-11/Jincheol-11/assets/145963704/226551f5-1cd1-4392-8e5a-e3f1e2523738)
 
 
-<h3 align="center">A developer who constantly develops</h3>
+<h3 align="left">A developer who constantly develops</h3>
 
 
 
