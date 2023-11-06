@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jincheol Gwon</h1>
 <h3 align="center">A developer who constantly develops</h3>
 
+![IMG_1180](https://github.com/Jincheol-11/Jincheol-11/assets/145963704/72161446-b008-4fa8-9f0a-59b4702800bc)
+
+
+
+
 - 🌱 I’m currently learning **Java, Javascript ...etc**
 
 - 📫 How to reach me **sunkiro96@naver.com**
