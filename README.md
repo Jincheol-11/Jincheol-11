@@ -27,3 +27,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jincheol-11&show_icons=true&locale=en" alt="jincheol-11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jincheol-11&" alt="jincheol-11" /></p>
+
+### 📑 ProJect 📑
+<br>
+
+| Date | Contents | With | Link |
+|:---:|:---:|:---:|:---:|
+| 23.10 ~ 23.11 | ShoppingMall CLI 제작 |  프로젝트 | [🏷](https://github.com/kimg1623/Shopping-CLI-Java) |
+| 23.10 | 게시판 CRUD 기능 구현 및 MyBatis 연결 | 개인 프로젝트 | [🏷](https://github.com/Jincheol-11/Use_Mybatis_With_Java) |
+| 23.10 | HTML5 / CSS3 / JavaScript를 활용한 웹페이지 만들기 | 개인 프로젝트 | [🏷](https://github.com/Jincheol-11/HTML-CSS-JS-Personal-Project) |
+| 23.09 ~ 24.03 | 천재교육 it 풀스택 개발자 양성과정 3기 (국비 지원)  | 천재교육 |
+
+
+<br><br>
+
+
