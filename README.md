@@ -3,7 +3,6 @@
 
 
 
-https://github.com/Jincheol-11/Jincheol-11/assets/145963704/4974af40-1d23-4062-acee-b16aa67b8fcb
 
 
 
