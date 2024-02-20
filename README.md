@@ -37,12 +37,21 @@
 ### 📑 ProJect 📑
 <br>
 
+<div align="center">
+	
 | Date | Contents | With | Link |
 |:---:|:---:|:---:|:---:|
-| 23.10 ~ 23.11 | ShoppingMall CLI 제작 |  프로젝트 | [🏷](https://github.com/kimg1623/Shopping-CLI-Java) |
+| 24.01 ~ 24.02 | 클래스 아카이브 역설계 ( SpringBoot ) | 팀 프로젝트 | [🏷](https://github.com/ChunjaeBookShop/Class-Archive) |
+| 23.12 ~ 24.01 | IT 도서 전문 웹 쇼핑몰(CHACK-IT) (Spring) | 팀 프로젝트 | [🏷](https://github.com/ChunjaeBookShop/CHACK-IT) |
+| ---- 23.12 ---- | 도서 쇼핑몰 (Spring) | 개인 프로젝트 | [🏷](https://github.com/Jincheol-11/Spring-BookMarket-SinglePrj) |
+| 23.11 ~ 23.12 | 매일매일 공부인증 사이트 (GongCheck) (JSP) | 팀 프로젝트 | [🏷](https://github.com/Chunjae-GongCheck/GongCheck) |
+| ---- 23.11 ---- | MVC2 패턴의 JSP 게시판 만들기  | 개인 프로젝트 | [🏷](https://github.com/Jincheol-11/JSP-Board-SinglePrj) |
+| 23.10 ~ 23.11 | ShoppingMall CLI 제작 | 팀 프로젝트 | [🏷](https://github.com/kimg1623/Shopping-CLI-Java) |
 | 23.10 | 게시판 CRUD 기능 구현 및 MyBatis 연결 | 개인 프로젝트 | [🏷](https://github.com/Jincheol-11/Use_Mybatis_With_Java) |
 | 23.10 | HTML5 / CSS3 / JavaScript를 활용한 웹페이지 만들기 | 개인 프로젝트 | [🏷](https://github.com/Jincheol-11/HTML-CSS-JS-Personal-Project) |
-| 23.09 ~ 24.03 | 천재교육 it 풀스택 개발자 양성과정 3기 (국비 지원)  | 천재교육 |
+| 23.09 ~ 24.03 | 에듀테크 풀스택 개발자 양성(Java) 과정 수료(국비 지원)  | 천재교육 |
+
+</div>
 
 
 <br><br>
